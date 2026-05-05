@@ -1,8 +1,8 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout Verilog Project Template
+# Digital Clock
 
-- [Read the documentation for project](docs/info.md)
+Here is my AI-assisted circuit design, which utilizes Google Gemini to modify the Verilog code from the Tiny Tapeout VGA Playground (https://vga-playground.com/). This modification results in a "Retro Digital Clock & Date Display" that can display time in either 12-hour/24-hour format, as well as the date (MM:DD:YY).
 
 ## What is Tiny Tapeout?
 
